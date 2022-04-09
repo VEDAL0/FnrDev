@@ -28,7 +28,7 @@ const Fnr = {
 ---
 
 ### Discord Profile ✨
-![Discord](https://discord.c99.nl/widget/theme-1/949408973583433728.png)
+![Discord](https://discord.c99.nl/widget/theme-3/949408973583433728.png)
 
 ---
 
