@@ -33,4 +33,4 @@ const Fnr = {
 ---
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3134kudude6myfv54uc5qla6shjq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3134kudude6myfv54uc5qla6shjq&redirect=true)
